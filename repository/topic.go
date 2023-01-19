@@ -1,4 +1,4 @@
-package reposity
+package repository
 
 import "sync"
 
